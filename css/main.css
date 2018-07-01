@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+    font-family: 'Dosis', sans-serif;
+    background: #f8f8f8;
+}
+.headPort {
+    width: 100%;
+    background: #e03d1e;
+    text-align: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+h1 {
+    font-weight: normal;
+    display: inline-block;
+}
+.headText {
+    color: #fff;
+}
+.headPortSubOrdinate {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+.btn {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    display: inline-block;
+    text-decoration: none;
+    margin: 0;
+    width: 20%;
+    padding: 5px 5px 5px 5px;
+    border: none;
+    height: 30px;
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+    -webkit-transition: 0.2s;
+}
+.btn:hover {
+    color: #fff;
+    background: rgba(0,0,0,0.1);
+}
+.whatsNewPort {
+    display: inline-block;
+    width: 47%;
+    min-height: 200px;
+    border-radius: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background: #fff;
+    margin-top: 20px;
+}
+.blogPort {
+    display: inline-block;
+    width: 47%;
+    min-height: 200px;
+    border-radius: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background: #fff;
+    margin-top: 20px;
+}
+.facebookPort {
+    display: inline-block;
+    width: 47%;
+    max-width: 408px;
+    min-height: 200px;
+    border-radius: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    background: #4267b2;
+    float: right;
+    margin-top: 20px;
+}
+.contentControl {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: auto;
+}
+h2 {
+    display: inline-block;
+    font-weight: normal;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.semiTitle {
+    text-align: center;
+    border-bottom: 1px solid #bbb;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+.semiTitleWhite {
+    text-align: center;
+    border-bottom: 1px solid #fff;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+#postContent {
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+.textDest {
+    color: #5d5d5d;
+    font-size: 18px;
+}
+.textDestWhite {
+    color: #f9f9f9;
+    font-size: 18px;
+}
+.facebookTwik {
+    height: 30px;
+    width: 30px;
+    border-radius: 6px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.frameBook {
+    width: 100%;
+}
+#postContentFacebook {
+    text-align: center;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+#facebookPluginPort {
+    margin-right: auto;
+    margin-left: auto;
+}
+.mainHeader {
+    font-weight: 900;
+    font-family: 'Dosis', sans-serif;
+    font-size: 40px;
+}
+.supaLight {
+    font-weight: 100;
+}
+.selected {
+    background: #fff;
+    color: #111;
+}
+
+.selected:hover {
+    background: #fff;
+    color: #111;
+}
+iframe {
+    border-radius: 1px;
+}
